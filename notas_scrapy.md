@@ -1,4 +1,4 @@
-# Scrapy notes
+# Notes on Scrapy
 
 To start a scrapy project, type in terminal:
 ```sh
