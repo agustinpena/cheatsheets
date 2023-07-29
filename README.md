@@ -1,2 +1,2 @@
-# cheatsheets
-My cheat sheets about various subjects
+# Cheat Sheets
+My cheat sheets about various subjects 📚
